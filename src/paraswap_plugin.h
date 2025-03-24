@@ -5,6 +5,7 @@
 
 #define PARAMETER_LENGTH 32
 #define SELECTOR_SIZE    4
+#define TESTING_1        5
 
 #define RUN_APPLICATION 1
 
